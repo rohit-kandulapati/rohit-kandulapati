@@ -1,33 +1,19 @@
 
-<!--
-**rohit-kandulapati/rohit-kandulapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rohit Kalyan Kandulapati
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Hi, I'm Rohit
-
-🚀 DevOps Engineer | Cloud & Infrastructure Enthusiast | Automation Advocate
+DevOps & Infra Engineer | Cloud & Infrastructure Enthusiast
 
 I enjoy building reliable infrastructure, automating workflows, and learning how modern systems scale. Currently exploring deeper into cloud architecture, container orchestration, and platform engineering.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🔧 DevOps Engineer with experience in **Linux, Docker, Kubernetes, CI/CD**
-* ☁️ Working with **AWS infrastructure and cloud automation**
-* 🏠 Running a **self-hosted homelab server**
-* 🧠 Currently learning **advanced cloud networking and infrastructure automation**
-* 📚 Building projects and documenting learnings
+- DevOps Engineer with experience in **Linux, Docker, Kubernetes, CI/CD, Automation, Terraform, Obseravability**
+- Working with **AWS infrastructure and cloud automation**
+- Running a _my simple blog_ **(rohitkalyan.in)[rohitkalyan.in]** in my home server. Please do visit.
+- Currently breaking things and learning **cloud networking and infrastructure automation**
+- Building projects and documenting learnings in my way.
 
 ---
 
@@ -78,7 +64,7 @@ I enjoy building reliable infrastructure, automating workflows, and learning how
 -->
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 * LinkedIn: *(www.linkedin.com/in/rohit-kandulapati)*
 * Blog / Notes: *(www.rohitkalyan.in)*

@@ -1,7 +1,7 @@
 
 # Hi, I'm Rohit Kalyan Kandulapati
 
-DevOps & Infra Engineer | Cloud & Infrastructure Enthusiast
+Pega DevOps & Infra Engineer | Cloud & Infrastructure Enthusiast
 
 I enjoy building reliable infrastructure, automating workflows, and learning how modern systems scale. Currently exploring deeper into cloud architecture, container orchestration, and platform engineering.
 
